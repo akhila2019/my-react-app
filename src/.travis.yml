@@ -6,6 +6,7 @@ cache:
   - node_modules
 script:
   - echo "We can put normal shell commands here"
+  - echo "new statement where added to test the CI code"
   - echo "We can put shell commands here"
   - echo "We can put shell commands here"
   - npm test
