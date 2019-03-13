@@ -7,5 +7,6 @@ cache:
 script:
   - echo "We can put normal shell commands here"
   - echo "We can put shell commands here"
+  - echo "We can put shell commands here"
   - npm test
   - npm run build
